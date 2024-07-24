@@ -69,6 +69,9 @@ main.dark {
     color: black;
     transition: 0,5s;
 }
+main.dark .icons-descricao {
+    color: black;
+}
 
 
 
